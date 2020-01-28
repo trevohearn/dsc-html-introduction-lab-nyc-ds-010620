@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!DOCTYPE HTML> 
 # HTML Introduction - Lab
 <HTML>
 ## Introduction
@@ -67,5 +67,5 @@ the changes instantly.
 ## Summary
 
 Well done! You just practiced writing your own structured HTML document!
-</body>
+  </body>
 </html>
