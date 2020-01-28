@@ -1,10 +1,11 @@
-
+<!DOCTYPE HTML>
 # HTML Introduction - Lab
-
+<HTML>
 ## Introduction
-
+<head>
+<title> You know what it is </title>
 It's time to practice making a well formatted HTML document! While you may normally prefer to work locally, you're encouraged to work on this lesson through the Learn platform, as it will be formatted nicely, with screenshots inline to guide you and a built-in development environment.
-
+</head>
 ## Objectives
 You will be able to:
 * Explain what HTML is and why it's important in the context of web development
@@ -12,8 +13,8 @@ You will be able to:
 * Create an HTML document with appropriate tags
 
 ## The Web Developers Toolset
-
-Like all lessons, you can complete this lesson locally on your hard drive. However, you're certain to notice that there is no jupyter/ipython notebook with the file extension .ipynb in this lesson's repository! While you'll use many of the same tools as you have been previously: the command line, a text editor, and a web browser, this lesson is a little bit different in that you'll be designing a minimalist web page! 
+<body>
+<p>Like all lessons, you can complete this lesson locally on your hard drive. However, you're certain to notice that there is no jupyter/ipython notebook with the file extension .ipynb in this lesson's repository! While you'll use many of the same tools as you have been previously: the command line, a text editor, and a web browser, this lesson is a little bit different in that you'll be designing a minimalist web page! </p>
 
 ## The In-Browser IDE
 
@@ -66,3 +67,5 @@ the changes instantly.
 ## Summary
 
 Well done! You just practiced writing your own structured HTML document!
+</body>
+</html>
